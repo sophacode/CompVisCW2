@@ -12,6 +12,7 @@ Follow the steps below in order to get the cleaned dataset on your local machine
 5. Download the [dataset][data] from Kaggle as a zip alongside the files in this folder. 
 ![Download Image](download.png)
 6. Should look like this when download complete
-7. Once complete, run the following `python prepare.py`
+![File Structure](file.png)
+7. Once complete, run the following `python prepare.py`. This should take approximately 5 minutes to run
 
 [data]: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
